@@ -32,7 +32,7 @@ cout<<"enter your height in meters"<<endl;
     cout<<"do not fit the description"<<endl;
 
 
-cout<<" If you happen to like football, thats a bonus point"<<endl;
+cout<<" If she likes A-Reece,makes me her biggest fan"<<endl;
     return 0;
 
 }
